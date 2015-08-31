@@ -1,8 +1,8 @@
 # _Ping Pong_
 
-##### _A Counting exercise (Fizz Buzz), June 2015_
+##### _A Counting Exercise (Fizz Buzz), June 2015_
 
-#### By _**Leah**_
+#### By _**Leah Klamkin**_
 
 ## Description
 
